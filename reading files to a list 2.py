@@ -11,4 +11,5 @@ def read_dollar2_menu():
     print('2nd line:', dollar_spam.readline())
     dollar_spam.close()
 
+read_dollar2_menu()
 
